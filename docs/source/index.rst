@@ -3,7 +3,7 @@ coredis
 
 .. container:: badges
 
-   .. image:: https://github.com/alisaifee/coredis/workflows/CI/badge.svg?branch=2.x
+   .. image:: https://img.shields.io/github/workflow/status/alisaifee/coredis/CI?logo=github&style=for-the-badge&labelColor=#282828
       :alt: CI status
       :target: https://github.com/alisaifee/coredis/actions?query=branch%3A2.x+workflow%3ACI
       :class: header-badge
@@ -18,7 +18,7 @@ coredis
       :alt: Supported Python versions
       :class: header-badge
 
-   .. image:: https://codecov.io/gh/alisaifee/coredis/branch/2.x/graph/badge.svg
+   .. image:: https://img.shields.io/codecov/c/github/alisaifee/coredis?logo=codecov&style=for-the-badge&labelColor=#282828
       :target: https://codecov.io/gh/alisaifee/coredis
       :alt: Code coverage
       :class: header-badge
